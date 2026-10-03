@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spaceship Cockpit
+* source:	https://sketchfab.com/3d-models/spaceship-cockpit-988c1f42448f4610a01cb03f63613ed3
+* author:	Swarmrider (https://sketchfab.com/Swarmrider)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spaceship Cockpit" (https://sketchfab.com/3d-models/spaceship-cockpit-988c1f42448f4610a01cb03f63613ed3) by Swarmrider (https://sketchfab.com/Swarmrider) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
